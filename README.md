@@ -1,4 +1,9 @@
-### Hi there 👋
+### Hi there 👋, I'm Patrick Barron
+I am a Principal Developer with more than 20 years of experience in web development and have focused on working on the Sitecore CMS platform for the past 10 years.
+
+Skills: C# / ASP.NET Core / React JS / JS / HTML / CSS
+
+- 🔭 I’m currently working on this page. 
 
 <!--
 **patrickbarrn/patrickbarrn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
